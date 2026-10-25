@@ -1,63 +1,121 @@
-# 💫 About Me:
-Hi 👋, I’m **Aditya Garg** <br><br>
+# Hi, I'm Aditya Garg 👋
 
-I am currently pursuing **B.Tech in Computer Science and Engineering (CSE)** from **JIIT, Noida**. <br>
-I have a strong interest in **Data Structures & Algorithms, Software Development, and Artificial Intelligence & Machine Learning**. <br>
-I have experience working with **C, C++, Java, Python, HTML, CSS, JavaScript, and React**, and I enjoy building practical projects to strengthen my skills. <br>
-Currently, I am focusing on improving my **DSA, Python, and Machine Learning fundamentals** while exploring real-world applications of technology. <br>
-My goal is to continuously learn, build meaningful projects, and grow as a **software engineer**.
+### 💻 Computer Science Student | Software Development | DSA | AI/ML
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_garg.02?stkn=MW9zcW1jMDdmOWJtNQ%3D%3D&utm_source=qr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-garg-5416a241b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarg3648@gmail.com)
+I'm pursuing **B.Tech in Computer Science and Engineering at JIIT, Noida**. I enjoy solving problems, building practical applications, and exploring how technology can solve real-world challenges.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🎓 B.Tech CSE student at JIIT, Noida
+- 🧠 Strengthening my Data Structures & Algorithms and problem-solving skills
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and data-driven applications
+- 🛠️ Building projects to apply my technical knowledge
+- 🎯 Aspiring software engineer committed to continuous learning and growth
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=Aditya-garg02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-<br/>
-
-![](https://streak-stats.demolab.com/?user=Aditya-garg02&theme=dark&hide_border=false)
-
-<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya-garg02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> Learn consistently. Build meaningfully. Improve continuously.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Aditya-garg02&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Connect With Me
 
-### Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Harsimran-singh-7765/Harsimran-singh-7765/output/github-contribution-grid-snake-dark.svg)
+<p align="left">
+  <a href="https://github.com/Aditya-garg02">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-garg-5416a241b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/aditya_garg.02/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:agarg3648@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🧰 Tech Stack
 
-```text
-╔═══════════════════════════════════════════════════════════════╗
-║  "Talk is cheap. Show me the code." - Linus Torvalds          ║
-║                                                               ║
-║  Currently brewing: ☕ Coffee + 💻 Code + 🎵 Lo-fi            ║
-╚═══════════════════════════════════════════════════════════════╝
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="C, C++, Java, Python, JavaScript"/>
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="HTML, CSS, React, Tailwind CSS, Vite"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,postgres,mongodb" alt="Node.js, FastAPI, MySQL, PostgreSQL, MongoDB"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, Linux"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 [StudyMate — Study Planner](https://github.com/Aditya-garg02/StudyMate)
+
+A React-based study planner designed to help students organize tasks and manage focused study sessions.
+
+- Built using React, JavaScript, and Vite
+- Task management and study timer functionality
+- Browser local storage for saving tasks
+
+🔗 **[Live Demo](https://aditya-garg02.github.io/StudyMate/)**
+
+### 🔳 [QR Code Generator](https://github.com/Aditya-garg02/qr-code-generator)
+
+A web application for generating QR codes through a simple, user-friendly interface.
+
+- Built using TypeScript and Vite
+- Clean and straightforward interface
+- Deployed as a web application
+
+### 🌾 AgriSense — Agricultural Decision Support System
+
+A machine-learning-based project focused on agricultural decision support through statistical analysis and agricultural datasets.
+
+- Developed using Python and machine learning libraries
+- Explores crop recommendations and yield prediction
+- Uses agricultural and environmental data for data-driven insights
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya-garg02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Aditya's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-garg02&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditya-garg02&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-garg02/Aditya-garg02/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+> "Talk is cheap. Show me the code." — Linus Torvalds
+
+<p align="center">
+  <i>Building today, learning every day, and working toward better solutions.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
